@@ -1,3 +1,4 @@
 # my-project
 To learn GIT
-cherojeong@gmail.com
+
+by cherojeong@gmail.com
